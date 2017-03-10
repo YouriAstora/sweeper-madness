@@ -21,12 +21,12 @@ Item {
 
     Audio{
         id: startSound
-        source: "../../sounds/gamestart.mp3"
+        source: "../../sounds/gamestart.ogg"
     }
 
     Audio{
         id: pointApplause
-        source: "../../sounds/applause.mp3"
+        source: "../../sounds/applause.ogg"
     }
 
 
